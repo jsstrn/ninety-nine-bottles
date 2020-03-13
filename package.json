@@ -1,0 +1,23 @@
+{
+  "name": "ninety-nine-bottles",
+  "version": "1.0.0",
+  "description": "Solutions to the 99 Bottles of OOP by Sandi Metz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsstrn/ninety-nine-bottles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsstrn/ninety-nine-bottles/issues"
+  },
+  "homepage": "https://github.com/jsstrn/ninety-nine-bottles#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
